@@ -1,0 +1,13 @@
+WebDriverFactory.class
+AuthHomeButtonTest.class
+ExitButtonTest.class
+ClickButtonTest.class
+AuthPage.class
+RegistrationTest.class
+ClickIngredientsTest.class
+AuthPersonalButtonTest.class
+AuthFromRegTest.class
+HomePage.class
+AuthFromResetTest.class
+RegistrationFailTest.class
+BaseTest.class
